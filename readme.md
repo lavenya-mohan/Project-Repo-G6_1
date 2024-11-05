@@ -8,7 +8,7 @@
 
 ### Approach
 - Keyword extraction - Metions of popular beverages and snacks. 
-- Frequency anslysis = The average star rating was calculated for each product to assess customer satisfaction. 
+- Frequency analysis - The average star rating was calculated for each product to assess customer satisfaction. 
 - Star rating analysis - The average star rating was calculated for each product to assess customer satisfaction. 
 - Visualization
     - Word clouds were generated to emphasize the mentioned products with the highest volume. 
